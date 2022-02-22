@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certayne questions demaunded and asked by the noble realme of Englande, of her true naturall chyldren and subiectes of the same</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1555</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23575</idno>
+            <idno type="STC">STC 9981</idno>
+            <idno type="STC">ESTC S117390</idno>
+            <idno type="EEBO-CITATION">99852604</idno>
+            <idno type="PROQUEST">99852604</idno>
+            <idno type="VID">17933</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23575)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 17933)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 638:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certayne questions demaunded and asked by the noble realme of Englande, of her true naturall chyldren and subiectes of the same</title>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>At the earneste requeste and sute of youre graces trewe and faythfull seruaunt Myles Hogherde [i.e. H. Singleton?,</publisher>
+                  <pubPlace>Imprinted at London [i.e. Wesel?] :</pubPlace>
+                  <date>1555]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The imprint is sarcastic; actual place of publication and printer conjectured by and publication date from STC.</note>
+                  <note>Against Mary's Catholic tendencies and her marriage to Philip of Spaine.</note>
+                  <note>Signatures: A⁶.</note>
+                  <note>Some print show-through.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Mary I, 1553-1558.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:17933:1"/>
+            <!-- PDF PAGE 15 -->
+            <pb facs="tcp:17933:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <p>¶ Certayne QVESTIONS DEMAVN<g ref="char:EOLhyphen"/>ded and aſked by the Noble Realme of Englande, of her true naturall chyldren and Subiectes of the ſame.</p>
+            <p>
+               <q>Felix quem faciunt aliena pericula cautum.</q>
+            </p>
+            <p>Imprinted AT LONDON AT THE earneſte requeſte and ſute of youre graces trewe and faythfull ſer<g ref="char:EOLhyphen"/>uaunt Myles Hogherde.</p>
+            <p>☞  ☞</p>
+            <p> ☞ </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:17933:2"/>
+            <!-- PDF PAGE 16 -->
+            <pb facs="tcp:17933:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>England ſpea<g ref="char:EOLhyphen"/>keth to the Engliſhmen.</head>
+            <epigraph>
+               <q>
+                  <l>Aunſwere theſe queſtions &amp; ſo ſhal I knowe</l>
+                  <l>Yf thou wyſhe my ſafte or my ouerthrowe.</l>
+               </q>
+            </epigraph>
+            <p>VVhether ther be two kynd of treſones, one to the kynges parſone, &amp; a nother to the body of the relme or not, &amp; whe<g ref="char:EOLhyphen"/>ther the boddy of the rellme, may par<g ref="char:EOLhyphen"/>done the committed treaſone vnto the parſone of the prince, and a gayne whether the Prynce may pardo<g ref="char:cmbAbbrStroke">̄</g> treaſon done to y<hi rend="sup">e</hi> body of the relme?</p>
+            <p>¶ Ite<g ref="char:cmbAbbrStroke">̄</g> whether a Prince can betray hys own realme, or not? and whether as the ſubiectes of a realme without the conſent of the Prince may not deliuer vp the right &amp; title of y<hi rend="sup">e</hi> ſame realme (belonging vnto the Prince) vnto a ſtraunger, whom it belongeth nothing vnto: So likewyſe the Prince ca<g ref="char:cmbAbbrStroke">̄</g>not deliuer vp vnto another farre<g ref="char:cmbAbbrStroke">̄</g> Prince, the right title, tuition, &amp; defence, of his realme, without the conſent of his lawfull eyre or eyres apparent and faythful ſubiectes, vnto any ſtraunger, without theyr lawfull &amp; expreſ<g ref="char:EOLhyphen"/>ſed conſent of them both.</p>
+            <p>¶ Ite<g ref="char:cmbAbbrStroke">̄</g> whether the cheff Captayn &amp; ſodiars of any towne, Caſtelle or holde, owght to obay his princes letters of co<g ref="char:cmbAbbrStroke">̄</g>maundement wher by the ſame towne or hold ſhuld ether be forſaken or ſurrendred fro<g ref="char:cmbAbbrStroke">̄</g> the realme to the enemy or to a ſtranger, or els left deſolate to the deſtruction of the realme, for the princes pleaſure alone?</p>
+            <p>
+               <pb facs="tcp:17933:3"/>
+               <!-- PDF PAGE 17 -->
+¶ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether the Princes be worthy to be hyr fathers eyre (who onely by his laſt wil cal<g ref="char:EOLhyphen"/>led hyr vnto) wyll not obſerue hyr fathers wil, and whether of right her fathers wyl ought to preuayle agaynſt all hyr practyſes, contrary to the ſame wyll, or not? and what iudgeme<g ref="char:cmbAbbrStroke">̄</g>t ſhall folowe that Princes which doth the contrary?</p>
+            <p>¶ Ite<g ref="char:cmbAbbrStroke">̄</g> whether one being a baſtarde in dede and ſo declared by the teſtimonye of .xiij. of the greateſt &amp; beſt ſcoles or vniuerſities in al Chri<g ref="char:EOLhyphen"/>ſte<g ref="char:cmbAbbrStroke">̄</g>dom, &amp; by the whole body of the Cano<g ref="char:cmbAbbrStroke">̄</g> law, can be made no baſtard, otherwaies then by le<g ref="char:EOLhyphen"/>gittimacio<g ref="char:cmbAbbrStroke">̄</g> fro<g ref="char:cmbAbbrStroke">̄</g> the Pope only, whoſe power the ſame realme had renounced, by the auctorite of Gods word, &amp; whether they were worthy pu<g ref="char:EOLhyphen"/>niſhment that called ſuche a one baſtarde.</p>
+            <p>¶ Ite<g ref="char:cmbAbbrStroke">̄</g> whether the expres word of god in the xxij. Chap. of Deut. forbyd a woman to beare a ſworde, or weare ſpurs, as kyngs do in theyr creacion, or to weare any other weapon, or ap<g ref="char:EOLhyphen"/>parell of man, ſaying: A woma<g ref="char:cmbAbbrStroke">̄</g> ſhal not we are the weapons of a man, neyther ſhall a man put on womans rayment, for who ſo doeth it, is ab<g ref="char:EOLunhyphen"/>hominacion vnto the Lord God.</p>
+            <p>¶ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether a Kyng becometh a tyraunt, in folowing his wyll, and forſaking his law?</p>
+            <p>¶ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether it be tyranny for a Prince, to kepe his brother or ſiſter in pryſon, &amp; ca<g ref="char:cmbAbbrStroke">̄</g> charge them with nothinge, as all the Realme well knoweth.</p>
+            <p>¶ Item, whether the Kynge thurſteth the bloud of his ſubiectes, when he ſeketh meanes to put his ſubiectes to death, after he is lawful<g ref="char:EOLunhyphen"/>ly quyte by the lawes of his Realme, and pu<g ref="char:EOLhyphen"/>niſhed thoſe men, who haue paſſed vpon hys
+<pb facs="tcp:17933:3"/>
+               <!-- PDF PAGE 17 -->lyfe, forcing them as much as may be to kyl his ſayd ſubiecte.</p>
+            <p>¶ Item, whether that Prince doeth commyt oppreſſion &amp; extorcion, which taketh away hys ſubiectes goodes, whe<g ref="char:cmbAbbrStroke">̄</g> he is out of hys realme, before he be condemned, or called home to hys aunſwere: And whether god wyl reuenge ſuch extorcion or not?</p>
+            <p>¶ Item, whether it be a poynte of tyrannye for a Prince, when he knoweth a doſyne of hys counſayl giltie of hye treaſon, to condemne one of the moſt innocente to death for the ſame, be<g ref="char:EOLhyphen"/>cauſe he would not aſſent to them in religion, &amp; to pardon the reſt: yea, and to cauſe ſome of the<g ref="char:cmbAbbrStroke">̄</g> to ſyt vpon him in iudgement, who were more giltie then the partie condemned?</p>
+            <p>¶ Item, whether it be a poynt of tyranny, to kyll one of his own bloud for a faulte deuyſed, and done by others. So that none other cauſe can appeare, why he ſhould kyll his ſayd Cou<g ref="char:EOLhyphen"/>ſyn, but onely that he ſhoulde not raygne after him?</p>
+            <p>¶ Item, whether a Kyng promyſing before his entrey to the imperial crown of his realme, to ſuffre ſome of his ſubiectes to folowe theyr owne religion, or afterward in the tyme of co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>mocion promyſe them pardon, yf they wil laye downe theyr weapons and departe. Be bound to preſerue his promyſe: and yf he do not, whe<g ref="char:EOLhyphen"/>ther ſuch a Prince ought euer after to be bele<g ref="char:EOLhyphen"/>ued or credited, when he offereth pardonne to ſerue his turne.</p>
+            <p>¶ Item whether they that haue take<g ref="char:cmbAbbrStroke">̄</g> an othe neuer to receyue the Biſhop of Rome agayne, &amp; haue not withſtanding in open parliament ſuf<g ref="char:EOLhyphen"/>fred
+<pb facs="tcp:17933:4"/>
+               <!-- PDF PAGE 18 -->billes to be preponed, and with their voy<g ref="char:EOLhyphen"/>ces conſented to the receyuing of him agayne, be periured or not.</p>
+            <p>¶ Item, whether a King beyng betroughted to another Kynges doughter, with wordes of the preſent tyme, may marry another wome<g ref="char:cmbAbbrStroke">̄</g> or not, ſhe beynge a lyue? And yf ſuche a Prince ſhould marry with y<hi rend="sup">e</hi> Quene of Engla<g ref="char:cmbAbbrStroke">̄</g>de, whe<g ref="char:EOLhyphen"/>ther ſhould ſhe lyue in aduoutry, and the childe childe ſo begotten, then be a baſtarde or not?</p>
+            <p>¶ Item, whether it be treaſon to declare a ti<g ref="char:EOLhyphen"/>tle of a Realme by a petegree to a ſpaniſh ſtrau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ge bloude, by dyuers other meanes remoued, but ſpecially by acte of Parliament declaringe the ſame to be treaſon?</p>
+            <p>¶ Item, whether ſubiectes oughte to loke to theyr own ſafetye, &amp; to the ſafetie of the realme and to ioyne them ſelfes wholy together, to put downe ſuch a Prince as ſeketh all meanes poſ<g ref="char:EOLhyphen"/>ſible to deliuer the<g ref="char:cmbAbbrStroke">̄</g>, theyr landes, theyr goodes, theyr wyues, theyr childre<g ref="char:cmbAbbrStroke">̄</g>, &amp; the whole realme into the handes of Spanyardes, who be moſte iuſtly hated lyke dogges all the worlde ouer:</p>
+            <p>¶ Item, whether theſe men be mete to ſytte in the Parliament houſe, that wil not ſpeake as readely and as earneſtly for the profyte of the poore man, and wealth of the realme, as for the pleaſure and flattering of his Prince, or not?</p>
+            <p>Item, whether actes made by a parcial Par<g ref="char:EOLunhyphen"/>liament, choſen by craft and pollicy, for the co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>paſſing of the Princes wilfull purpoſe, oughte to be obeyed or not?</p>
+            <p>¶ Item, whether the determinacion of ſuche a parliamente, as be all together ignoraunte in matters of religion, ought to be obeyed, though
+<pb facs="tcp:17933:4"/>
+               <!-- PDF PAGE 18 -->all the ſoules of the poore people in the realme ſhould be damned thereby, or not?</p>
+            <p>¶ Item, whether that man that maryeth the Quene of a realme (yf ſhe deceaſe before hym) ſhall haue all her goodes, mouable within the realme, or elles where, as all her gold, &amp; ſiluer, and Iewels of plate and other, al the treaſures of the townes and caſtles, all ordenaunce and gonnes, horſſes, ſhippes, bowes, harnas, and all ſuch other thinges as were hers, at the tyme of her death, &amp; whether by the law he may cary away out of y<hi rend="sup">e</hi> realme the ſame treaſure Whim?</p>
+            <p>¶ Item, whether all ſuche as in religion fo<g ref="char:EOLhyphen"/>lowe the commaundement of man ſhalbe dam<g ref="char:EOLhyphen"/>ned with the man that commaundeth yf he co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>maunde it, that is contrary to the law of God:</p>
+            <p>¶ Item, whether children be better brought to the vnderſtanding of God, by learninge the x. Commaundementes, and the proceſſio<g ref="char:cmbAbbrStroke">̄</g> in en<g ref="char:EOLhyphen"/>gliſhe, and the Catechiſme, or els by learninge the latyne ſeruyces, whereof the vnlearned vn<g ref="char:EOLhyphen"/>derſtandeth not one worde?</p>
+            <p>¶ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether he ſpeaketh &amp; doeth agaynſt the holy ghoſt, that ſpeaketh agaynſt the holye Byble and knowen trueth therein, &amp; ſayeth y<hi rend="sup">t</hi> it is the fountayne of hereſies, and vyly and con<g ref="char:EOLhyphen"/>temptuouſly poulleth down the ſame Byble, &amp; treadeth it vnder his feete.</p>
+            <p>¶ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether the Cytezens of Andwerpe in requyring that no ſpanyardes ſhoulde entre theyr cytie, geue example to al men or not, to do the lyke. And whether the ſmart of other coun<g ref="char:EOLhyphen"/>treyes vnder the bondage and tyrann<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of the ſpanyardes, where they haue bene ſuffered to entre, dyd moue the wyſe ſorte of Andwerpe to
+<pb facs="tcp:17933:5"/>
+               <!-- PDF PAGE 19 -->forſee theyr miſchief.</p>
+            <p>¶ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether it be lykelye, that yf the ſpa<g ref="char:EOLhyphen"/>nyardes obtayne the better ha<g ref="char:cmbAbbrStroke">̄</g>d of the Engliſh nacion, that the poore Engliſhe men ſhalbe for<g ref="char:EOLhyphen"/>ced to paye ſuch importable taxes, as all coun<g ref="char:EOLhyphen"/>treyes &amp; cyties paye, where the Prince or they haue all ready had the ouer hand?</p>
+            <p>¶ Ite<g ref="char:cmbAbbrStroke">̄</g>, for aſmuch as the ſafete of the realme toucheth the Lordes &amp; co<g ref="char:cmbAbbrStroke">̄</g>mons of the ſame, and al theyr landes, goodes, &amp; poſſeſſions, whether may a Quene marrye to ſuch a one, though ſhe promyſe neuer ſo fayre: as may by any meanes in daunger the realme, or proper poſſeſſions.</p>
+            <p>¶ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether the King of Spaynes ſubie<g ref="char:EOLhyphen"/>ctes (beyng made free of Engla<g ref="char:cmbAbbrStroke">̄</g>d) the commo<g ref="char:EOLhyphen"/>dities of the Realme ſhall come into the ha<g ref="char:cmbAbbrStroke">̄</g>des of ſtraungers, and the Engliſhe men vndone thereby, or not?</p>
+            <p>¶ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether it be a commo<g ref="char:cmbAbbrStroke">̄</g> maxime, or ge<g ref="char:EOLhyphen"/>nerall rule, practyſed amo<g ref="char:cmbAbbrStroke">̄</g>geſt Princes, yf they maye at anye tyme breake theyr fayth, and for<g ref="char:EOLhyphen"/>ſweare themſelues, for the purchaſing or obtay<g ref="char:EOLunhyphen"/>ning of a Kingdom. And becauſe Englande is one of the beſte Kingdoms in al Europa, whe<g ref="char:EOLhyphen"/>ther it be lykely now at this preſent that Eng<g ref="char:EOLhyphen"/>land wyl prouoke a Prince rather to forſweare him ſelfe, not withſtanding any article or othe made to the contrary?</p>
+            <p>¶ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether the Realme of England be<g ref="char:EOLhyphen"/>long to the Quene, or to her ſubiectes?</p>
+            <p>¶ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether the Quene of England may ſell away the realme or not, to a ſtraunger, with out the conſent of her commons?</p>
+            <p>☞ Ite<g ref="char:cmbAbbrStroke">̄</g>, yf ſhe cannot ſell it awaye, whether may ſhe geue it away or not, to a ſtraunger, and
+<pb facs="tcp:17933:5"/>
+               <!-- PDF PAGE 19 -->marry the ſame ſtraunger, without the conſent of her commons, or not?</p>
+            <p>☞ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether the co<g ref="char:cmbAbbrStroke">̄</g>mons may not lawe<g ref="char:EOLhyphen"/>fully by the lawes of God, and of nature, ſtand againſt ſuch a Prince, to depoſe her which hath and doeth ſeeke all meanes poſſyble to geue a<g ref="char:EOLhyphen"/>way the Realme for euer, by Parliament, or o<g ref="char:EOLhyphen"/>therwiſe from her right eyres and natural ſub<g ref="char:EOLhyphen"/>iectes, to a ſtraunger?</p>
+            <p>☞ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether a Quene beyng deſyred by the whole lower houſe of Parliament to marry within the realme, and to no ſtraunger, oughte to be obeyed, yf ſhe doe to the contrarye to her poore commons?</p>
+            <p>☞ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether William Conquerour de<g ref="char:EOLhyphen"/>ſtroyed all the nobilite of Engla<g ref="char:cmbAbbrStroke">̄</g>d for his own ſauegarde, by the counſell of Robart Archebi<g ref="char:EOLhyphen"/>ſhop of Canterbury, whom Kyng Lerolde ba<g ref="char:EOLhyphen"/>niſhed his Realme for treaſon. And whether it be lykely that in proceſſe of tyme, the Prince of Spayne yf he be ſuffred, wyll doe the lyke by the counſail of Steuen Gardiner, now Biſhop of Wincheſter, or not?</p>
+            <p>☞ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether the poore commo<g ref="char:cmbAbbrStroke">̄</g>s of Eng<g ref="char:EOLhyphen"/>land ſhal not be ſhamefully impoueriſhed with repayinge to the Emperour .xx. C.M. franche crownes, which y<hi rend="sup">e</hi> Prince of Spayne borowed of him before he entred the Realme, y<hi rend="sup">t</hi> he might appeare ryche, vntil he had compaſſed his pur<g ref="char:EOLhyphen"/>poſe, or not?</p>
+            <p>☞ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether the Biſhop of Romes au<g ref="char:EOLhyphen"/>ctoritie be lawfully receyued or not agayn into England, for aſmuch as the laſte Parliamente wherein he was reſtored, was no Parliament, becauſe it is euydente by the olde lawes of the
+<pb facs="tcp:17933:6"/>
+               <!-- PDF PAGE 20 -->Realme, that the Kynges of England may not kepe two Parliamentes in one yeare. Wherfore the laſt muſt be vnlawfull &amp; no Parliament?</p>
+            <p>☞ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether ſuch as haue any free holde coppe holdes, or indenture holdes of Abby la<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>des, ſhall be forced to yelde them vp agayne or not, by the Biſhop of Romes lawes, notwith<g ref="char:EOLhyphen"/>ſtanding any promyſe made to the contrary, ſe<g ref="char:EOLhyphen"/>ynge that the next Pope may vndoe al grau<g ref="char:cmbAbbrStroke">̄</g>tes made to the contrary by his prodeceſſour. And ſeynge alſo that there is aplayne lawe that all ſuche be excommunicate and excluded from the church by the Popes doctryne, who kepe anye ſuche landes as haue bene putte at any tyme in mortmane, and appoynted by the conſente of Princes to fynde the Clargie.</p>
+            <p>☞ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether it be lykely that the Quene helpe the Pope to bring this thinge to paſſe by all meanes poſſible or not, ſeynge ſhe her ſelfe fyrſt hath reſtored ſome Abbey landes to geue example?</p>
+            <p>☞ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether it be likely, that, that Prince which promyſed vpo<g ref="char:cmbAbbrStroke">̄</g> his fayth to kepe certaine articles, &amp; amongeſt them not to demaunde the crowne, and afterwardes contrary to the ſame fayth &amp; articles, attempted to be crowned king of the realme, wyll not ſeke all meanes poſſible aſwel to be periured as yf nede ſhal requyre by open warre to obtayne his purpoſe?</p>
+            <p>☞ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether ſuch a Prince miſſing of his purpoſe by intreaty and fayre meanes, oughte not to be feared hauing forreyne power within the Realme at his commaundement, which in<g ref="char:EOLhyphen"/>creaſeth dayly, and the fauoure of the Quene, leaſt he wyll attempte to obtayne that thing by
+<pb facs="tcp:17933:6"/>
+               <!-- PDF PAGE 20 -->conqueſt which otherwyſe by intreatye he can<g ref="char:EOLunhyphen"/>not obtayne, from which miſerye I beſeche al<g ref="char:EOLhyphen"/>mightie God ſaue England.</p>
+            <p>☞ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether the Pope be God, or God the Pope?</p>
+            <p>¶ Ite<g ref="char:cmbAbbrStroke">̄</g>, Herry the fowrth Emperour maried with Co<g ref="char:cmbAbbrStroke">̄</g>ſtancia, the eyre &amp; Quene of Napels, and by her entituled Kinge of Napels, yf be<g ref="char:EOLhyphen"/>cauſe of her yeares beyng before a Nunne vir<g ref="char:EOLhyphen"/>gine diſpayring of lawful iſſue, practyſed with his Phiſicion, hauing a wife, which lately con<g ref="char:EOLhyphen"/>ceaued to brute according to the tyme of her co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>cepcion, a lyke concepcion of the Quene: &amp; ſo in thend brought forth the Phiſicio<g ref="char:cmbAbbrStroke">̄</g>s child, as the Quenes: wherby the inheritaunce of y<hi rend="sup">e</hi> realme was tranſported to a villayn, whether it is im<g ref="char:EOLhyphen"/>poſſible, there might be agayne any ſuche lyke practyſe?</p>
+            <p>¶ Ite<g ref="char:cmbAbbrStroke">̄</g>, whether the teſtimonie of a Biſhop at large out of priſon, enioying all his dignities, openly in printe ſet forth to the whole worlde, be ſtronger agaynſt the Kinges chyld, the<g ref="char:cmbAbbrStroke">̄</g> whe<g ref="char:cmbAbbrStroke">̄</g> he beyng depriued from all, and in priſon, vpo<g ref="char:cmbAbbrStroke">̄</g> delyuerye and reſtitucion by the ſame chylde, affyrmeth the contrary?</p>
+            <p>¶ Ite<g ref="char:cmbAbbrStroke">̄</g>, yf this word noble, be aſmuch to ſaye as notable: whether the notable wyſe, or y<hi rend="sup">e</hi> no<g ref="char:EOLhyphen"/>table fooles of a realme are to be called nobles, and whether of theyr conſentes, is to be taken for the conſent of the nobilitie?</p>
+            <p>☞ Item, whether after this lyfe be ended &amp; men dye out of this lyfe, there be to be loked for a reſurrection and eternal lyfe, or no? and whe<g ref="char:EOLhyphen"/>ther the Biſhops lyues confyrme this article, or deſt<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ye it?</p>
+            <p>
+               <pb facs="tcp:17933:7"/>
+               <!-- PDF PAGE 21 -->
+☞ Item, whether it be Treaſon to aſke a queſtion?</p>
+            <p>☞ Item, whether it be treaſon to ſaye God ſaue the noble Realme of Englande from the captiuitie, bondage, and conqueſte of the vyle Spanyardes?</p>
+            <trailer>☞ FINIS.</trailer>
+            <pb facs="tcp:17933:7"/>
+            <!-- PDF PAGE 21 -->
+         </div>
+      </body>
+   </text>
+</TEI>
